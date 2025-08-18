@@ -1,15 +1,24 @@
-# Java Practice Codes
+# Java Practice Codes 🚀
 
-This repository contains my daily Java practice codes while learning the language.  
-The codes are organized by topics for easy navigation.
+This repository contains my **daily Java practice codes** while learning the language along with DSA(data structure and algorithm)  
+All files are organized topic-wise inside the `src/` folder.
 
-## Topics Covered
-- Basics (Hello World, Variables, Input/Output)
-- Loops (for, while, nested)
-- OOP (Classes, Objects, Inheritance, Polymorphism)
-- Collections (ArrayList, HashMap, Set)
+---
 
-## How to Run
+## 📂 Topics Covered
+- **basics/** → Hello World, Variables, Input/Output
+- **loops/** → for, while, nested loops
+- **oops/** → Classes, Objects, Inheritance, Polymorphism
+- **collections/** → ArrayList, HashMap, Set
+- **misc/** → Other small practice codes..........
+- and many more topics
+
+---
+
+## ▶️ How to Run
+Compile and run any file using:
+
 ```bash
-javac FileName.java
-java FileName
+javac src/topic/FileName.java
+java src.topic.FileName
+
