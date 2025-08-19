@@ -15,7 +15,7 @@ public class calculate_sum{
         int a = sc.nextInt();
         int b = sc.nextInt();
         int sum = calculate_sum(a,b);      //arguments or actual parameter in main called functions
-        System.out.println("sum is" + sum);
+        System.out.println("sum is:" + sum);
 
     }
 
