@@ -1,4 +1,4 @@
-package loops.whileloop;
+package loops;
 
 public class print_numbers {
     public static void main(String[] args) {
