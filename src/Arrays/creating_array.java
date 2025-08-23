@@ -18,7 +18,7 @@ public class creating_array {
         System.out.println("chemistry marks:"+marks[2]);
 
         //update an array
-        marks[2]=89;      //marks ko update kr diya
+        marks[2]= marks[2]+89;     //marks ko update kr diya
         System.out.println( "chemistry marks:"+marks[2]);    //vapas se chemistry ke marks print krwa diye
 
         //finding percentage
